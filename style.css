@@ -13,6 +13,11 @@ body {
   top: 0;
 }
 
+#estudo_trybe {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #nav {
   background-color: grey;
   margin-left: 35%;
@@ -29,4 +34,17 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+.lado-esquerdo {
+  background-color: grey;
+  max-width: 50%;
+  float: left;
+}
+
+.lado-direito {
+  background-color: grey;
+  max-width: 50%;
+  float: right;
 }
