@@ -1,7 +1,5 @@
 body {
-
   background-color: rgb(253, 251, 251);
-
 }
 
 #cabecalho {
@@ -13,23 +11,17 @@ body {
   padding: 8px;
   position: fixed;
   top: 0px;
-
 }
 
 #nav {
   background-color: grey;
-
   margin-left: 35%;
   margin-right: 35%;
-
   padding: 5px;
-
   border-style: solid;
   border-radius: 15px;
   border-color: green;
-
   text-align: center;
-
 }
 
 #minha_foto {
